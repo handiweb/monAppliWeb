@@ -1,5 +1,4 @@
     <script type="text/javascript">
-      <!--
       function verif(entree) {
         var seulement_ceci ="0123456789-+*/.";
         for (var i = 0; i < entree.length; i++)
@@ -18,5 +17,4 @@
       function touche(caracteres) {
         window.document.maCalculette.ecran.value = window.document.maCalculette.ecran.value + caracteres;
       }
-      -->
     </script>
